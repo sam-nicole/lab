@@ -1,0 +1,59 @@
+#sidenav {
+    background: #F9B5AC;
+    padding-top: 100PX;
+    padding-right: -5px;
+    padding-bottom: 500px
+}
+
+ul {
+    list-style: none;
+    padding-left: 20;
+    text-align: ;
+    font-size: 4mm
+}
+
+.resume-head h1 {
+    color: #474350
+}
+
+.resume-head h5 {
+    color: #88A0A8
+}
+
+#maincontent h2 {
+    color: #546A76;
+    background: #FAFAC6
+}
+
+img {
+    border-radius: 50%;
+    align-content: center;
+}
+
+p.exl {
+    padding-top: 25px
+}
+
+#maincontent {
+    padding-left: 300px
+}
+
+#sidenav h3 {
+    text-align: center;
+    color: #474350;
+}
+
+#sidenav h5 {
+    text-align: center;
+    color: #474350
+}
+
+img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    color: #FCFFEB
+}
